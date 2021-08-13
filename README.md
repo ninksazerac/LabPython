@@ -1,2 +1,3 @@
 # LabPython
-รวม Lab ข้อที่ได้
+W E L C O M E 
+Floder -> Grader Data Structure
