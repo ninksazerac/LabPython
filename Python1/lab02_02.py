@@ -1,6 +1,4 @@
 from math import pi
-
-
 class Spherical:
     def __init__(self, r):
         self.radius = r
@@ -16,7 +14,6 @@ class Spherical:
 
     def __str__(self):
         return 'Radius =' + str(self.radius) + ' Volumn = ' + str(self.findVolume()) + ' Area = ' + str(self.findArea())
-
 
 Inp1, Inp2 = input('Enter R : ').split()
 R1 = Spherical(int(Inp1))

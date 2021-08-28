@@ -19,5 +19,4 @@ class Calculator:
 
 x, y = input('Enter num1 num2 : ').split(',')
 answer = Calculator(int(x), int(y))
-
 print(answer.add(), answer.sub(), answer.mul(), answer.div(), sep='\n')
