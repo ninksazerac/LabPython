@@ -1,3 +1,4 @@
+#- รับ h m s --> คำนวณวินาที
 print("*** Converting hh.mm.ss to seconds ***")
 h,m,s = map(int,input("Enter hh mm ss : ").split())
 if m >= 60 or m < 0:

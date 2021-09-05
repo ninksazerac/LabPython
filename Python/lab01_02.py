@@ -1,3 +1,4 @@
+#if-elif
 print(" *** Wind classification ***")
 wind=float(input("Enter wind speed (km/h) : "))
 if wind >= 0 and wind <= 51.99:

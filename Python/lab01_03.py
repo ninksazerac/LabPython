@@ -1,3 +1,4 @@
+#loop
 print(" *** Summation of each digit ***")
 n=int(input("Enter a positive number : "))
 sum=0
