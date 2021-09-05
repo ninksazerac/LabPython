@@ -1,3 +1,4 @@
+#3 SUM
 array = [int(i) for i in input('Enter Your List : ').split()]
 
 sum = 0

@@ -1,3 +1,4 @@
+#Spherical
 from math import pi
 class Spherical:
     def __init__(self, r):
