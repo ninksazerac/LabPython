@@ -46,4 +46,4 @@ for i in Inp:
 if not s.isEmpty():
     print('Answer : ','{:.2f}'.format(s.pop()))
 else:
-    print('Empty list , cannot fucking pop.')
+    print('Empty list , cannot pop.')
