@@ -7,17 +7,17 @@ BMI = น้ำหนักหน่วย (kg) / ( ความสูงหน�
 
 ค่า                             สถานะ
 
-BMI < 18.5               Below normal weight
+BMI < 18.5                Below normal weight
 
-18.5 <= BMI < 25     Normal weight
+18.5 <= BMI < 25          Normal weight
 
-25 <= BMI < 30        Overweight
+25 <= BMI < 30            Overweight
 
-30 <= BMI < 35        Case I Obesity
+30 <= BMI < 35            Case I Obesity
 
-35 <= BMI < 40        Case II Obesity
+35 <= BMI < 40            Case II Obesity
 
-BMI >= 40                Case III Obesity
+BMI >= 40                 Case III Obesity
 
 
 
